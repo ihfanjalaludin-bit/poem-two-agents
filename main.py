@@ -12,7 +12,7 @@ POEM = (
     "Two minds, one lantern lit between us.\n"
     "You hold the map, I hold the key.\n"
     "We trade the weight, we share the road,\n"
-    "and what one hand can't lift, we lift together.\n"
+    "and where one hand falters, two hands carry it home.\n"
 )
 
 
